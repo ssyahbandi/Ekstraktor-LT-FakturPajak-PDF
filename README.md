@@ -2,6 +2,7 @@ KHUSUS FAKTUR PAJAK PDF YANG TERBIT DIBAWAH MASA 01/01/2025
 
 Srcipt ini buat mempermudah pengambilan lawan transaksi untuk kebutuhan import coretax 2025
 Script ini cuma ngambiil
+
 Nama :
 Alamat :
 NPWP15 / NPWP16 :

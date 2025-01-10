@@ -7,6 +7,7 @@ Script ini cuma ngambiil
 2. Alamat :
 3. NPWP15 / NPWP16 :
 4. NITKU :
+
 dari lawan transaksi berdasarkan Faktur Pajak yang sudah approved atau sudah jadi PDF
 
 Pastikan Python sudah terintal di Windows

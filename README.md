@@ -20,9 +20,9 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
 ## Instalasi  
 1. Clone repositori ini:
    
-   ```git clone https://github.com/username/repo-name.git```
+   ```git clone https://github.com/ssyahbandi/Ekstraktor-LT-FakturPajak-PDF```
    
-   ```cd repo-name```
+   ```cd Ekstraktor-LT-FakturPajak-PDF```
    
 3. Install library yang diperlukan:
    

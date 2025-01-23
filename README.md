@@ -1,4 +1,4 @@
-#Ekstraksi NPWP dari PDF
+# Ekstraksi NPWP dari PDF
 
 ## Deskripsi  
 Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor Pokok Wajib Pajak) dari faktur pajak dalam format PDF. Skrip ini dirancang untuk menangkap NPWP16 dan NITKU jika tersedia, serta mengabaikan format NPWP lainnya.  

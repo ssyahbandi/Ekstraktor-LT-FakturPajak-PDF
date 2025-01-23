@@ -26,7 +26,7 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
    
 3. Install library yang diperlukan:
    
-  ```pip install pdfplumber pandas```
+   ```pip install pdfplumber pandas```
 
 ## Penggunaan  
 1. Jalankan skrip:

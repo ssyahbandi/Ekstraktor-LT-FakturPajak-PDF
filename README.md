@@ -55,9 +55,9 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
 
 2. Ikuti instruksi di terminal untuk memasukkan nama file output dan path folder yang berisi file PDF.
 
-   Contoh Path : ```F:\Extrak PDF Faktur Pajak\Perusahaan\2024\11 November 2024```
+   Contoh Path          : ```F:\Extrak PDF Faktur Pajak\Perusahaan\2024\11 November 2024```
    
-   Contoh Path Laiunnya : ```F:\Extrak PDF Faktur Pajak\Perusahaan\2024\12 Desember 2024```
+   Contoh Path Lainnya : ```F:\Extrak PDF Faktur Pajak\Perusahaan\2024\12 Desember 2024```
 
    Dan Pastikan di dalam Folder Path tersebut ada file PDF
    

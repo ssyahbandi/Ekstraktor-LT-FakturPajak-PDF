@@ -53,8 +53,13 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
    
    ```python run.py```
 
-2. Ikuti instruksi di terminal untuk memasukkan nama file output dan path folder yang berisi file PDF.  
-  
+2. Ikuti instruksi di terminal untuk memasukkan nama file output dan path folder yang berisi file PDF.
+
+   Contoh Path : ```F:\Extrak PDF Faktur Pajak\Perusahaan\2024\11 November 2024```
+   Contoh Path Laiunnya : ```F:\Extrak PDF Faktur Pajak\Perusahaan\2024\12 Desember 2024```
+
+   Dan Pastikan di dalam Folder Path tersebut ada file PDF
+   
 ## Contoh  
 Setelah menjalankan skrip, data yang diekstrak akan disimpan dalam file Excel dengan format berikut:  
   

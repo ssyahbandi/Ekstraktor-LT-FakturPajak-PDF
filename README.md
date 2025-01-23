@@ -27,6 +27,25 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
 3. Install library yang diperlukan:
    
    ```pip install pdfplumber pandas```
+## Format yang didukung
+
+  | Pembeli Barang Kena Pajak / Penerima Jasa Kena Pajak          |
+  ----------------------------------------------------------------|
+  | Nama : PT ABC                                                 |
+  | Alamat : Jalan Mulu, Ketapang, Jawa Barat                     |
+  | NPWP : 123456789012345 / 1234567890123456                     |
+  | NITKU : 1234567890123456000000                                |
+  |---------------------------------------------------------------|
+  
+
+  | Pembeli Barang Kena Pajak / Penerima Jasa Kena Pajak          |
+  ----------------------------------------------------------------|
+  | Nama : PT DCE                                                 |
+  | Alamat : Jalan Terus, Ketapang, Jawa Barat                    |
+  | NPWP : 1234567890123456                                       |
+  | NITKU : -                                                     |
+  |---------------------------------------------------------------|
+  
 
 ## Penggunaan  
 1. Jalankan skrip:

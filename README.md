@@ -60,6 +60,8 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
    Contoh Path Lainnya : ```F:\Extrak PDF Faktur Pajak\Perusahaan\2024\12 Desember 2024```
 
    Dan Pastikan di dalam Folder Path tersebut ada file PDF
+
+   ![Desain tanpa judul](https://github.com/user-attachments/assets/9bfbf4da-4329-46b8-86a6-5ff602c05583)
    
 ## Contoh  
 Setelah menjalankan skrip, data yang diekstrak akan disimpan dalam file Excel dengan format berikut:  

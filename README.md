@@ -19,17 +19,21 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
   
 ## Instalasi  
 1. Clone repositori ini:
+   
    ```git clone https://github.com/username/repo-name.git```
+   
    ```cd repo-name```
    
-3. Install library yang diperlukan:  
+3. Install library yang diperlukan:
+   
   ```pip install pdfplumber pandas```
 
 ## Penggunaan  
 1. Jalankan skrip:
+   
   ```python run.py```
 
-2. Ikuti instruksi di terminal untuk memasukkan nama file output dan path folder yang berisi file PDF.  
+3. Ikuti instruksi di terminal untuk memasukkan nama file output dan path folder yang berisi file PDF.  
   
 ## Contoh  
 Setelah menjalankan skrip, data yang diekstrak akan disimpan dalam file Excel dengan format berikut:  

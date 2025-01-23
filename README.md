@@ -34,7 +34,7 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
   | Pembeli Barang Kena Pajak / Penerima Jasa Kena Pajak          |
   ----------------------------------------------------------------|
   | Nama : PT ABC                                                 |
-  | Alamat : Jalan Mulu, Ketapang, Jawa Barat                     |
+  | Alamat : Kav. 40-42, Jl. Gatot Subroto No.7 7, RT.7/RW.1, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190                     |
   | NPWP : 123456789012345 / 1234567890123456                     |
   | NITKU : 1234567890123456000000                                |
   
@@ -43,7 +43,7 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
   | Pembeli Barang Kena Pajak / Penerima Jasa Kena Pajak          |
   ----------------------------------------------------------------|
   | Nama : PT DCE                                                 |
-  | Alamat : Jalan Terus, Ketapang, Jawa Barat                    |
+  | Alamat : Kav. 40-42, Jl. Gatot Subroto No.7 7, RT.7/RW.1, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190                    |
   | NPWP : 1234567890123456                                       |
   | NITKU : -                                                     |
   

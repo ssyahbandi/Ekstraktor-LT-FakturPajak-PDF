@@ -61,8 +61,8 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
 
    Dan Pastikan di dalam Folder Path tersebut ada file PDF
 
-   ![Desain tanpa judul](https://github.com/user-attachments/assets/9bfbf4da-4329-46b8-86a6-5ff602c05583)
-   
+   ![Desain tanpa judul (1)](https://github.com/user-attachments/assets/1b5b198e-f73c-4094-be13-d97827503c69)
+
 ## Contoh  
 Setelah menjalankan skrip, data yang diekstrak akan disimpan dalam file Excel dengan format berikut:  
   

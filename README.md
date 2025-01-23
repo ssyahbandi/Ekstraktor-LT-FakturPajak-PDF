@@ -51,9 +51,9 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
 ## Penggunaan  
 1. Jalankan skrip:
    
-  ```python run.py```
+   ```python run.py```
 
-3. Ikuti instruksi di terminal untuk memasukkan nama file output dan path folder yang berisi file PDF.  
+2. Ikuti instruksi di terminal untuk memasukkan nama file output dan path folder yang berisi file PDF.  
   
 ## Contoh  
 Setelah menjalankan skrip, data yang diekstrak akan disimpan dalam file Excel dengan format berikut:  

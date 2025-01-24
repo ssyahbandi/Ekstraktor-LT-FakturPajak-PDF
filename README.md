@@ -43,7 +43,7 @@ Proyek ini adalah skrip Python yang digunakan untuk mengekstrak data NPWP (Nomor
   | Pembeli Barang Kena Pajak / Penerima Jasa Kena Pajak          |
   ----------------------------------------------------------------|
   | Nama : PT DCE                                                 |
-  | Alamat : Kav. 40-42, Jl. Gatot Subroto No.7 7, RT.7/RW.1, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190                    |
+  | Alamat : Kav. 43-44, Jl. Gatot Subroto No.7 7, RT.7/RW.1, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190                    |
   | NPWP : 1234567890123456                                       |
   | NITKU : -                                                     |
   
@@ -68,8 +68,8 @@ Setelah menjalankan skrip, data yang diekstrak akan disimpan dalam file Excel de
   
   | Nama                   | Alamat                                           | NPWP16              | NITKU                | File                     |  
   |------------------------|--------------------------------------------------|---------------------|----------------------|--------------------------|  
-  | [NAMA LT]              | [ALAMAT_LT]                                      | [NPWP16]            | -                    | NAMA_PDF.pdf  |  
-  | [NAMA LT]              | [ALAMAT_LT]                                      | [NPWP16]            | [NITKU/IDTKU]        | NAMA_PDF.pdf      |  
+  | [NAMA LT]              | [ALAMAT_LT]                                      | [NPWP16]            | [NITKU/IDTKU]                    | NAMA_PDF.pdf  |  
+  | PT ABC              | Kav. 40-42, Jl. Gatot Subroto No.7 7, RT.7/RW.1, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190                                      | [NPWP16]            |         | NAMA_PDF.pdf      |  
   
 ## Kontribusi  
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau buka isu untuk diskusi.  

@@ -69,8 +69,8 @@ Setelah menjalankan skrip, data yang diekstrak akan disimpan dalam file Excel de
   | Nama                   | Alamat                                           | NPWP16              | NITKU                | File                     |  
   |------------------------|--------------------------------------------------|---------------------|----------------------|--------------------------|  
   | [NAMA LT]              | [ALAMAT_LT]                                      | [NPWP16]            | [NITKU/IDTKU]                    | NAMA_PDF.pdf  |  
-  | PT ABC                 | Kav. 40-42, Jl. Gatot Subroto No.7 7, RT.7/RW.1, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190                                      | 1234567890123456            |1234567890123456000000         | PT ABC.pdf      |  
-  | PT DCE                 | Kav. 43-44, Jl. Gatot Subroto No.7 7, RT.7/RW.1, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190                                      | 1234567890123456            |         | PT ABC.pdf      |
+  | PT ABC                 | Kav. 40-42, Jl. Gatot Subroto No.7 7, RT.7/RW.1, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190 | 1234567890123456 |1234567890123456000000  | PT ABC.pdf |  
+  | PT DCE                 | Kav. 43-44, Jl. Gatot Subroto No.7 7, RT.7/RW.1, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190 | 1234567890123456 | -                      | PT DCE.pdf |
   
 ## Kontribusi  
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau buka isu untuk diskusi.  
